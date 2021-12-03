@@ -1,0 +1,71 @@
+* {
+    background-color: rgb(247, 232, 221);
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+ul.recipe, ol.recipe {
+    margin-top: 1px;
+    padding-top: 1px;
+}
+
+li {
+    text-align: left;
+    font-size: 16px;
+    padding-top: 8px;
+}
+
+li.landing-list {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 12px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+}
+
+h2 {
+    text-align: left;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+
+h3 {
+    text-align: left;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+
+h5 {
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: 1px;
+}
+
+h6 {
+    font-size: 12px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-top: 1px;
+    padding-bottom: 12px;
+}
+
+a {
+    color: darkslategray;
+}
